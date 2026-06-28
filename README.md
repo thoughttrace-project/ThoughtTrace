@@ -10,6 +10,10 @@
   🤗 <a href="https://huggingface.co/datasets/SCAI-JHU/ThoughtTrace">Dataset</a>
 </p>
 
+<p align="center">
+  🏆 <b>Best Paper Award</b> at the RLxF Workshop at ICML 2026
+</p>
+
 ---
 
 Conversational AI has reached billions of users, yet existing datasets capture only what people *say*, not what they *think*.
